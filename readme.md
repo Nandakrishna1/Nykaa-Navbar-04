@@ -2,6 +2,8 @@
 
 This project is a responsive navigation bar inspired by Nykaa’s website design. It is built using HTML, Tailwind CSS, and Font Awesome for icons. The navbar is elegant, modern, and adjusts gracefully across different screen sizes.
 
+[live at](https://github.com/Nandakrishna1/Nykaa-Navbar-04)
+
 ## 🧩 Features
 
 - Responsive Design:
